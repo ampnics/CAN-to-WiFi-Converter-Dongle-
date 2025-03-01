@@ -26,7 +26,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/CAN-to-WiFi-Converter.git
+git clone https://github.com/ampnics/CAN-to-WiFi-Converter-Dongle-/
 Open the KiCad project files in KiCad v6 or later.
 Modify or generate Gerber files for PCB fabrication.
 (Optional) Flash the ESP32 firmware for testing.
